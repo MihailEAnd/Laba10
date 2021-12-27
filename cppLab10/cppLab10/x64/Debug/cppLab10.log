@@ -1,0 +1,3 @@
+﻿  cppLab10.cpp
+D:\universitet\7semestr\пвсиб\лабы\cppLab10-master\cppLab10-master\cppLab10\cppLab10.cpp(96,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  cppLab10.vcxproj -> D:\universitet\7semestr\пвсиб\лабы\cppLab10-master\cppLab10-master\x64\Debug\cppLab10.exe
